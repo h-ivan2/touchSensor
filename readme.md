@@ -60,4 +60,3 @@ When the finger is removed from the touch plate, the base current drops to zero,
 ## Tools Used
 
 - KiCad 10.0
-- Embedded Systems — Y1C
